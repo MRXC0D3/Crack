@@ -143,7 +143,7 @@ def back():
 def banner():
 	print(f'''\t{asu} 
 
-    {m}•{k}•{h}•{sir} RECODE : Edwin Fajar {x}{m}•{k}•{h}•{x}''')
+    {m}•{k}•{h}•{sir} RECODE : Yan D.luffy {x}{m}•{k}•{h}•{x}''')
 #--------------------[ BAGIAN-MASUK ]--------------#
 def login():
 	try:
