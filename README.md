@@ -21,13 +21,16 @@ $ pip install rich bs4
 $ pip install stdiomask 
 
 
-$ git clone https://github.com/FAJAR-ZX/crackfb.git
+$ git clone https://github.com/MRXC0D3/crackfb.git
 
 
 $ cd crackfb 
 
 
- $ python edwinfajar.py
+ $ python MRXC0D3.py
  
  
- SELAMAT MENCOBA GUYSS:)
+ ### NOTE:
+
+Jika terjadi eror pada saat penginstallan 
+mohon untuk memulai ulang handphone anda
